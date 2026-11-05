@@ -1,0 +1,10 @@
+# Completar colaborativamente (usar como Dockerfile durante la clase).
+# Imagen base Python liviana:
+# Directorio de trabajo:
+# Copiar primero requirements.txt:
+# Instalar dependencias:
+# Copiar app.py:
+# ARG APP_VERSION con valor dev:
+# Pasar ARG a ENV para que exista en runtime:
+# Documentar puerto 8000:
+# Comando de inicio:
